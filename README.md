@@ -1,2 +1,4 @@
 # scrapy_huxiu
-抓虎嗅网_入门demo
+虎嗅网_demo
+
+scrapy入门时写的demo
